@@ -1,73 +1,73 @@
 Inicio
-Para k igual a 1, B vale 5,681, u vale 4,097137061435918 e v vale -1,5838629385640828
-Para k igual a 1, B vale 5,681 está nas condicões
-Para k igual a 1, B vale 5,681, x vale -2,2815455826654993 e y vale -7,021652040051359
+Para k igual a 1, B vale 5.681, u vale 4.097 e v vale -1.584
+Para k igual a 1, B vale 5.681 está nas condicões
+Para k igual a 1, B vale 5.681, x vale -2.282 e y vale -7.022
 
-Para k igual a 1, B vale 11,418000000000001, u vale 6,965637061435918 e v vale -4,452362938564083
-Para k igual a 1, B vale 11,418000000000001 está nas condicões
-Para k igual a 1, B vale 11,418000000000001, x vale 1,6912453176571374 e y vale 5,205005217653413
+Para k igual a 1, B vale 11.418, u vale 6.966 e v vale -4.452
+Para k igual a 1, B vale 11.418 está nas condicões
+Para k igual a 1, B vale 11.418, x vale 1.691 e y vale 5.205
 
-Para k igual a 2, B vale 1,1483, u vale 3,0874241228718344 e v vale 1,9391241228718346
-Para k igual a 2, B vale 1,1483 está nas condicões
-Para k igual a 2, B vale 1,1483, x vale -4,42729786688119 e y vale 3,2169550553249664
+Para k igual a 2, B vale 1.148, u vale 3.087 e v vale 1.939
+Para k igual a 2, B vale 1.148 está nas condicões
+Para k igual a 2, B vale 1.148, x vale -4.427 e y vale 3.217
 
-Para k igual a 2, B vale 6,8853, u vale 5,955924122871835 e v vale -0,9293758771281655
-Para k igual a 2, B vale 6,8853 está nas condicões
-Para k igual a 2, B vale 6,8853, x vale 5,972638243749964 e y vale -4,339897158263746
+Para k igual a 2, B vale 6.885, u vale 5.956 e v vale -0.929
+Para k igual a 2, B vale 6.885 está nas condicões
+Para k igual a 2, B vale 6.885, x vale 5.973 e y vale -4.34
 
-Para k igual a 3, B vale 5,681, u vale 6,610411184307752 e v vale 0,9294111843077522
-Para k igual a 3, B vale 5,681 está nas condicões
-Para k igual a 3, B vale 5,681, x vale 5,973032665689027 e y vale 4,33957698306525
+Para k igual a 3, B vale 5.681, u vale 6.61 e v vale 0.929
+Para k igual a 3, B vale 5.681 está nas condicões
+Para k igual a 3, B vale 5.681, x vale 5.973 e y vale 4.34
 
-Para k igual a 3, B vale 11,418000000000001, u vale 9,478911184307753 e v vale -1,9390888156922483
-Para k igual a 3, B vale 11,418000000000001 está nas condicões
-Para k igual a 3, B vale 11,418000000000001, x vale -4,42767150868371 e y vale -3,216848621164319
+Para k igual a 3, B vale 11.418, u vale 9.479 e v vale -1.939
+Para k igual a 3, B vale 11.418 está nas condicões
+Para k igual a 3, B vale 11.418, x vale -4.428 e y vale -3.217
 
-Para k igual a 4, B vale 1,1483, u vale 5,600698245743669 e v vale 4,452398245743669
-Para k igual a 4, B vale 1,1483 está nas condicões
-Para k igual a 4, B vale 1,1483, x vale 1,6908804746591044 e y vale -5,204871703556982
+Para k igual a 4, B vale 1.148, u vale 5.601 e v vale 4.452
+Para k igual a 4, B vale 1.148 está nas condicões
+Para k igual a 4, B vale 1.148, x vale 1.691 e y vale -5.205
 
-Para k igual a 4, B vale 6,8853, u vale 8,46919824574367 e v vale 1,583898245743669
-Para k igual a 4, B vale 6,8853 está nas condicões
-Para k igual a 4, B vale 6,8853, x vale -2,281038294354016 e y vale 7,021679231829157
+Para k igual a 4, B vale 6.885, u vale 8.469 e v vale 1.584
+Para k igual a 4, B vale 6.885 está nas condicões
+Para k igual a 4, B vale 6.885, x vale -2.281 e y vale 7.022
 
-Para k igual a 5, B vale 5,681, u vale 9,123685307179587 e v vale 3,442685307179586
-Para k igual a 5, B vale 5,681 está nas condicões
-Para k igual a 5, B vale 5,681, x vale -7,383024286332734 e y vale 6,898465505988938e-05
+Para k igual a 5, B vale 5.681, u vale 9.124 e v vale 3.443
+Para k igual a 5, B vale 5.681 está nas condicões
+Para k igual a 5, B vale 5.681, x vale -7.383 e y vale 0.0
 
-Para k igual a 5, B vale 11,418000000000001, u vale 11,992185307179586 e v vale 0,5741853071795857
-Para k igual a 5, B vale 11,418000000000001 está nas condicões
-Para k igual a 5, B vale 11,418000000000001, x vale 5,472877674412663 e y vale -3,481194631627105e-05
+Para k igual a 5, B vale 11.418, u vale 11.992 e v vale 0.574
+Para k igual a 5, B vale 11.418 está nas condicões
+Para k igual a 5, B vale 11.418, x vale 5.473 e y vale -0.0
 
-Para k igual a 6, B vale 1,1483, u vale 8,113972368615505 e v vale 6,965672368615504
-Para k igual a 6, B vale 1,1483 está nas condicões
-Para k igual a 6, B vale 1,1483, x vale 1,6913957879691974 e y vale 5,20470426811281
+Para k igual a 6, B vale 1.148, u vale 8.114 e v vale 6.966
+Para k igual a 6, B vale 1.148 está nas condicões
+Para k igual a 6, B vale 1.148, x vale 1.691 e y vale 5.205
 
-Para k igual a 6, B vale 6,8853, u vale 10,982472368615504 e v vale 4,097172368615505
-Para k igual a 6, B vale 6,8853 está nas condicões
-Para k igual a 6, B vale 6,8853, x vale -2,281840753845079 e y vale -7,021418496935082
+Para k igual a 6, B vale 6.885, u vale 10.982 e v vale 4.097
+Para k igual a 6, B vale 6.885 está nas condicões
+Para k igual a 6, B vale 6.885, x vale -2.282 e y vale -7.021
 
-Para k igual a 7, B vale 5,681, u vale 11,636959430051421 e v vale 5,95595943005142
-Para k igual a 7, B vale 5,681 está nas condicões
-Para k igual a 7, B vale 5,681, x vale 5,972951569363271 e y vale -4,339688602581838
+Para k igual a 7, B vale 5.681, u vale 11.637 e v vale 5.956
+Para k igual a 7, B vale 5.681 está nas condicões
+Para k igual a 7, B vale 5.681, x vale 5.973 e y vale -4.34
 
-Para k igual a 7, B vale 11,418000000000001, u vale 14,50545943005142 e v vale 3,08745943005142
-Para k igual a 7, B vale 11,418000000000001 está nas condicões
-Para k igual a 7, B vale 11,418000000000001, x vale -4,427630584786437 e y vale 3,216904948076669
+Para k igual a 7, B vale 11.418, u vale 14.505 e v vale 3.087
+Para k igual a 7, B vale 11.418 está nas condicões
+Para k igual a 7, B vale 11.418, x vale -4.428 e y vale 3.217
 
-Para k igual a 8, B vale 1,1483, u vale 10,627246491487337 e v vale 9,478946491487338
-Para k igual a 8, B vale 1,1483 está nas condicões
-Para k igual a 8, B vale 1,1483, x vale -4,427616348021683 e y vale -3,2165167036411626
+Para k igual a 8, B vale 1.148, u vale 10.627 e v vale 9.479
+Para k igual a 8, B vale 1.148 está nas condicões
+Para k igual a 8, B vale 1.148, x vale -4.428 e y vale -3.217
 
-Para k igual a 8, B vale 6,8853, u vale 13,495746491487338 e v vale 6,6104464914873375
-Para k igual a 8, B vale 6,8853 está nas condicões
-Para k igual a 8, B vale 6,8853, x vale 5,973134190990036 e y vale 4,3392145454490025
+Para k igual a 8, B vale 6.885, u vale 13.496 e v vale 6.61
+Para k igual a 8, B vale 6.885 está nas condicões
+Para k igual a 8, B vale 6.885, x vale 5.973 e y vale 4.339
 
-Para k igual a 9, B vale 5,681, u vale 14,150233552923256 e v vale 8,469233552923255
-Para k igual a 9, B vale 5,681 está nas condicões
-Para k igual a 9, B vale 5,681, x vale -2,2814143660540616 e y vale 7,021694674912889
+Para k igual a 9, B vale 5.681, u vale 14.15 e v vale 8.469
+Para k igual a 9, B vale 5.681 está nas condicões
+Para k igual a 9, B vale 5.681, x vale -2.281 e y vale 7.022
 
-Para k igual a 9, B vale 11,418000000000001, u vale 17,018733552923255 e v vale 5,600733552923255
-Para k igual a 9, B vale 11,418000000000001 está nas condicões
-Para k igual a 9, B vale 11,418000000000001, x vale 1,6911791014003632 e y vale -5,20502673261945
+Para k igual a 9, B vale 11.418, u vale 17.019 e v vale 5.601
+Para k igual a 9, B vale 11.418 está nas condicões
+Para k igual a 9, B vale 11.418, x vale 1.691 e y vale -5.205
 
