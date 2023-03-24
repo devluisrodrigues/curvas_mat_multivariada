@@ -1,0 +1,15 @@
+Pontos em que a reta tangente a curva é horizontal
+Para t igual a 0.3143, x vale 3.39441 e y vale -1.12794
+Para t igual a 1.373, x vale 0.70362 e y vale 7.88951
+Para t igual a 2.3402, x vale -2.48736 e y vale 0.7601
+Para t igual a 3.0011, x vale -3.5343 e y vale 3.34471
+Para t igual a 4.1163, x vale -2.0072 e y vale -7.02909
+Para t igual a 4.9715, x vale 0.91753 e y vale -1.8552
+Para t igual a 5.7161, x vale 3.01052 e y vale -5.43243
+Para t igual a 6.8499, x vale 3.01508 e y vale 5.43243
+Para t igual a 7.5943, x vale 0.91434 e y vale 1.8552
+Para t igual a 8.4497, x vale -2.00191 e y vale 7.02909
+Para t igual a 9.5648, x vale -3.53898 e y vale -3.34471
+Para t igual a 10.2256, x vale -2.48376 e y vale -0.7601
+Para t igual a 11.193, x vale 0.69792 e y vale -7.88951
+Para t igual a 12.2516, x vale 3.39809 e y vale 1.12794

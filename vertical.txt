@@ -1,0 +1,16 @@
+Pontos em que a reta tangente a curva é vertical
+Para t igual a 0.0, x vale 2.0 e y vale 0.0
+Para t igual a 0.798, x vale 6.31026 e y vale 2.55508
+Para t igual a 1.9271, x vale -4.43 e y vale 3.34965
+Para t igual a 2.6247, x vale -1.43159 e y vale 1.76267
+Para t igual a 3.5374, x vale -7.56198 e y vale -1.37454
+Para t igual a 4.629, x vale 2.22553 e y vale -3.5614
+Para t igual a 5.2662, x vale -0.11222 e y vale -3.03523
+Para t igual a 6.283, x vale 8.0 e y vale -0.00287
+Para t igual a 7.2996, x vale -0.11222 e y vale 3.0392
+Para t igual a 7.9368, x vale 2.22553 e y vale 3.55636
+Para t igual a 9.0286, x vale -7.56198 e y vale 1.38007
+Para t igual a 9.9411, x vale -1.43159 e y vale -1.76601
+Para t igual a 10.6388, x vale -4.43 e y vale -3.3444
+Para t igual a 11.768, x vale 6.31026 e y vale -2.56003
+Para t igual a 12.5661, x vale 2.0 e y vale 0.00149
